@@ -3,12 +3,11 @@
 <p>Testing the html functions. Insert actual paragraph here.</p>
 </body>
 
-<details id=1>
-
 <h2>Experiment 2</h2>
+<details id=1>
 <summary><ul>   
  <li>testing bullet 1</li>
 <li> testing bullet 2</li>
 </ul>
-</summary>
 </details id=1>
+</summary>
