@@ -1,5 +1,4 @@
 <html>
-<title>Tester</title>
 
 <h1>testing</h1>
 <body>
