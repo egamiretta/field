@@ -2,3 +2,9 @@
 <body>
 <p>Testing the html functions. Insert actual paragraph here.</p>
 </body>
+
+<h2>'Experiment 2'</h2>
+<ul>   
+ <li>testing bullet 1</li>
+<li> testing bullet 2</li>
+</ul>
