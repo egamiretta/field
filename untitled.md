@@ -14,7 +14,6 @@
 </details id=1>
 </body>
 
-<details>
 <body>
 <summmary><h2>Smosh rebought Smosh</h2></summmary>
 <h3>Yesterday, June 20th of 2023, Anthony Padilla and Ian Hecox rebought Smosh. 
