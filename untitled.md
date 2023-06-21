@@ -12,10 +12,11 @@
     <li> testing bullet 2</li>
   </ul>
 </details id=1>
-
-<details id=2>
+</body>
+<body>
 <h2>Smosh rebought Smosh</h2>
 <h3>Yesterday, June 20th of 2023, Anthony Padilla and Ian Hecox rebought Smosh. 
   Moving forward the duo will create sketches together an bring back the best of the past to the present.
-  <a href="http://youtube.com/Smosh">Smosh </a>
+  <a href="http://youtube.com/Smosh">link to Smosh's Youtube Channel </a>
 </h3>
+</body>
