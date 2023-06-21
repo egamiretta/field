@@ -5,7 +5,6 @@
 
 <details id=1>
 <summary><h2>Experiment 2</h2></summary>
-<details id=1>
   <ul>
     <li>testing bullet 1</li>
     <li> testing bullet 2</li>
